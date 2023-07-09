@@ -6,7 +6,7 @@
 /dist/
 /integration/bazel/bazel-*
 /node_modules/
-
+.angular/
 # Node
 /node_modules
 npm-debug.log
